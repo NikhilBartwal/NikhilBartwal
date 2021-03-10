@@ -19,8 +19,6 @@
 </p>
 <br>
 
-![](https://visitor-badge.glitch.me/badge?page_id=NikhilBartwal.NikhilBartwal)
-
 ### Who's this guy? 👀
 I'm Nikhil Bartwal, a 3rd year undergrad currently persuing my Bachelors in Computer Science from India. Having tried various different fields and branches of CS, I fell in love with Machine Learning and A.I. in general. 
 
@@ -50,3 +48,8 @@ When I'm not working on any project or competition, I like to watch some good sc
 <br>
 
 I also love playing chess and badminton when it comes to sport.
+
+### You here often?
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=NikhilBartwal&show_icons=true&theme=gotham&count_private=true&include_all_commits=true" alt="NikhilBartwal" />
+
+![](https://visitor-badge.glitch.me/badge?page_id=NikhilBartwal.NikhilBartwal)
