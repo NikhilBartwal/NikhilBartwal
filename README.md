@@ -49,7 +49,7 @@ When I'm not working on any project or competition, I like to watch some good sc
 
 I also love playing chess and badminton when it comes to sport.
 
-### You here often?
+### You here often? 📈
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=NikhilBartwal&show_icons=true&theme=gotham&count_private=true&include_all_commits=true" alt="NikhilBartwal" />
 
 ![](https://visitor-badge.glitch.me/badge?page_id=NikhilBartwal.NikhilBartwal)
