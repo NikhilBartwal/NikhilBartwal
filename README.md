@@ -32,13 +32,13 @@ Do checkout my <a href="https://github.com/NikhilBartwal/Species.ai">Species.AI<
 
 ### My arsenal of languages and tools 🎯
 <p float="left">
-<img align="left" alt="python" width="40px" src="logo/python.svg" />
-<img align="left" alt="python" width="40px" src="logo/java.svg" />
-<img align="left" alt="python" width="40px" src="logo/android.svg" />
-<img align="left" alt="python" width="40px" src="logo/tensorflow.svg" />
-<img align="left" alt="python" width="40px" src="logo/sklearn.svg" />
-<img align="left" alt="python" width="40px" src="logo/c++.svg" />
-<img align="left" alt="python" width="40px" src="logo/git.svg" />
-<img align="left" alt="python" width="40px" src="logo/notebook.svg" />
-<img align="left" alt="python" width="40px" src="logo/atom.svg" />
+<img alt="python" width="40px" src="logo/python.svg" />
+<img alt="python" width="40px" src="logo/java.svg" />
+<img alt="python" width="40px" src="logo/android.svg" />
+<img alt="python" width="35px" src="logo/tensorflow.svg" />
+<img alt="python" width="40px" src="logo/sklearn.svg" />
+<img alt="python" width="40px" src="logo/c++.svg" />
+<img alt="python" width="40px" src="logo/git.svg" />
+<img alt="python" width="40px" src="logo/notebook.svg" />
+<img alt="python" width="40px" src="logo/atom.png" />
 </p>
