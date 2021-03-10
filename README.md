@@ -30,6 +30,8 @@ I've also been contributing to various open-source repositories, most prominentl
 
 Do checkout my <a href="https://github.com/NikhilBartwal/Species.ai">Species.AI</a>, an android application which identifies and provides information about 350+ species of plants animals and birds, simply by taking a picture (kingof Pokedex for real species).
 
+I absolutely love helping people out when they ask me something. Drop a <a href="mailto:nikhilbartwal1234@gmail.com">mail</a> if you have doubt :p
+
 ### My arsenal of languages and tools 🎯
 <p float="left">
 <img alt="python" width="40px" src="logo/python.svg" />
@@ -42,3 +44,9 @@ Do checkout my <a href="https://github.com/NikhilBartwal/Species.ai">Species.AI<
 <img alt="python" width="40px" src="logo/notebook.svg" />
 <img alt="python" width="40px" src="logo/atom.png" />
 </p>
+
+### Anything else? 👤
+When I'm not working on any project or competition, I like to watch some good sci-fi movies and series (Do watch 'Travelers' and '12 Monkey' series, you'll love it!). 
+<br>
+
+I also love playing chess and badminton when it comes to sport.
