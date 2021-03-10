@@ -17,6 +17,7 @@
   <img align="left" alt="Nikhil's AngelList" width="30px" src="logo/angellist.svg" />
 </a>
 </p>
+<br>
 
 ### Who's this guy? 👀
 I'm Nikhil Bartwal, a 3rd year undergrad currently persuing my Bachelors in Computer Science from India. Having tried various different fields and branches of CS, I fell in love with Machine Learning and A.I. in general. 
