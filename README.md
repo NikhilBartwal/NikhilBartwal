@@ -26,9 +26,10 @@ I'm Nikhil Bartwal, a 3rd year undergrad currently persuing my Bachelors in Comp
 I'm a Machine Larning Enthusiast and love taking part in various Kaggle competitions, reading about cutting-edge technologies in the field, taking part in hackathons and designed android apps.
 I've also been contributing to various open-source repositories, most prominently <a href="https://github.com/tensorflow/datasets">Tensorflow Datasets<a>
 
-Do checkout my <a href="https://github.com/NikhilBartwal/Species.ai">Species.AI</a>, an android application which identifies and provides information about 350+ species of plants animals and birds, simply by taking a picture (kingof Pokedex for real species).
+Do checkout my Web/Android app <a href="https://github.com/NikhilBartwal/Species.ai">Species.AI</a> here: [https://share.streamlit.io/nikhilbartwal/species.ai/SpeciesAI_webapp.py](https://share.streamlit.io/nikhilbartwal/species.ai/SpeciesAI_webapp.py).<br><br>
+It is a Deep Learning application which identifies and provides information about 350+ species of plants animals and birds, simply by taking a picture (kindof Pokedex for real species). I've also worked on an android version of the same which you can find [here](https://github.com/NikhilBartwal/Species.ai_Android)
 
-I absolutely love helping people out when they ask me something. Drop a <a href="mailto:nikhilbartwal1234@gmail.com">mail</a> if you have doubt :p
+I absolutely love helping people out when they ask me something. Drop a <a href="mailto:nikhilbartwal1234@gmail.com">mail</a> if you have any doubts or want to work on something cool together! :p
 
 ### My arsenal of languages and tools 🎯
 <p float="left">
