@@ -34,14 +34,17 @@ I absolutely love helping people out when they ask me something. Drop a <a href=
 ### My arsenal of languages and tools 🎯
 <p float="left">
 <img alt="python" width="40px" src="logo/python.svg" />
-<img alt="python" width="40px" src="logo/java.svg" />
-<img alt="python" width="40px" src="logo/android.svg" />
-<img alt="python" width="35px" src="logo/tensorflow.svg" />
-<img alt="python" width="40px" src="logo/sklearn.svg" />
-<img alt="python" width="40px" src="logo/c++.svg" />
-<img alt="python" width="40px" src="logo/git.svg" />
-<img alt="python" width="40px" src="logo/notebook.svg" />
-<img alt="python" width="40px" src="logo/atom.png" />
+<img alt="java" width="40px" src="logo/java.svg" />
+<img alt="android" width="40px" src="logo/android.svg" />
+<img alt="tensorflow" width="35px" src="logo/tensorflow.svg" />
+<img alt="sklearn" width="40px" src="logo/sklearn.svg" />
+<img alt="keras" width="40px" src="logo/keras.svg" />
+<img alt="cplusplus" width="40px" src="logo/c++.svg" />
+<img alt="scipy" width="40px" src="logo/scipy.svg" />
+<img alt="streamlit" width="40px" src="logo/streamlit.svg">
+<img alt="git" width="40px" src="logo/git.svg" />
+<img alt="jupyter" width="40px" src="logo/notebook.svg" />
+<img alt="atom" width="40px" src="logo/atom.png" />
 </p>
 
 ### Anything else? 👤
