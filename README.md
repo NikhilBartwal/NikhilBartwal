@@ -20,10 +20,12 @@
 <br>
 
 ### Who's this guy? 👀
-I'm Nikhil Bartwal, a 3rd year undergrad currently persuing my Bachelors in Computer Science from India. Having tried various different fields and branches of CS, I fell in love with Machine Learning and A.I. in general. 
+I'm Nikhil Bartwal, a 4th year undergrad currently persuing my Bachelors in Computer Science from India. Having tried various different fields and branches of CS, I fell in love with Machine Learning and A.I. in general. 
 
 ### What does he do? 💬
-I'm a Machine Larning Enthusiast and love taking part in various Kaggle competitions, reading about cutting-edge technologies in the field, taking part in hackathons and designed android apps.
+I'm a Machine Larning Enthusiast and love taking part in various Kaggle competitions, hackathons reading about cutting-edge technologies in the field, taking part in hackathons and designed android apps.
+
+Currentlly, I'm working as the Lead Data Analyst at ShapeAI as well as Bitcoin Core Developer under the Summer of Bitcoin program.
 I've also been contributing to various open-source repositories, most prominently <a href="https://github.com/tensorflow/datasets">Tensorflow Datasets<a>
 
 Do checkout my Web/Android app <a href="https://github.com/NikhilBartwal/Species.ai">Species.AI</a> here: [https://share.streamlit.io/nikhilbartwal/species.ai/SpeciesAI_webapp.py](https://share.streamlit.io/nikhilbartwal/species.ai/SpeciesAI_webapp.py).<br><br>
