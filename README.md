@@ -28,8 +28,16 @@ I'm a Machine Larning Enthusiast and love taking part in various Kaggle competit
 Currentlly, I'm working as the Lead Data Analyst at ShapeAI as well as Bitcoin Core Developer under the Summer of Bitcoin program.
 I've also been contributing to various open-source repositories, most prominently <a href="https://github.com/tensorflow/datasets">Tensorflow Datasets<a>
 
-Do checkout my Web/Android app <a href="https://github.com/NikhilBartwal/Species.ai">Species.AI</a> here: [https://share.streamlit.io/nikhilbartwal/species.ai/SpeciesAI_webapp.py](https://share.streamlit.io/nikhilbartwal/species.ai/SpeciesAI_webapp.py).<br><br>
-It is a Deep Learning application which identifies and provides information about 350+ species of plants animals and birds, simply by taking a picture (kindof Pokedex for real species). I've also worked on an android version of the same which you can find [here](https://github.com/NikhilBartwal/Species.ai_Android)
+### Some of My Data Science and ML Projects: 
+  
+* #### <a href="https://github.com/NikhilBartwal/Project-Sandbox"> DataDissect </a>, A Data Science and ML web app written in Python.
+  
+  This is a part of my latest project that I call Project Sandbox. You can summarize, pre-process and visualize any dataset of csv format in real time on your browser without writing a single line of code! Check it out on [Streamlit](https://share.streamlit.io/nikhilbartwal/project-sandbox/main/Sandbox_app.py)
+
+* #### <a href="https://github.com/NikhilBartwal/Species.ai">Species.AI</a>, a web/android ML app, written in Python and Java.
+
+  It is a Deep Learning application which identifies and provides information about 350+ species of plants animals and birds, simply by taking a picture (kindof Pokedex for real    species). You can check it out [here](https://share.streamlit.io/nikhilbartwal/species.ai/SpeciesAI_webapp.py)
+  I've also worked on an android version of the same which you can find [here](https://github.com/NikhilBartwal/Species.ai_Android)
 
 I absolutely love helping people out when they ask me something. Drop a <a href="mailto:nikhilbartwal1234@gmail.com">mail</a> if you have any doubts or want to work on something cool together! :p
 
